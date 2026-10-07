@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="192" viewBox="0 0 960 192" role="img" aria-labelledby="title desc">
+<title id="title">ho72 — AI, Software, Systems</title>
+<desc id="desc">A green banner connecting a model, an application and a running system.</desc>
+<defs>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#E5ECE9" stroke-width="1"/></pattern>
+<clipPath id="frame"><rect x="1" y="1" width="958" height="190" rx="16"/></clipPath>
+</defs>
+<rect x="1" y="1" width="958" height="190" rx="16" fill="#F5F8F7" stroke="#DCE6E3"/>
+<g clip-path="url(#frame)"><rect x="560" y="0" width="400" height="192" fill="url(#grid)"/></g>
+<rect x="40" y="34" width="24" height="3" rx="1.5" fill="#258774"/>
+<text x="74" y="40" fill="#526D66" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">DEVELOPER PORTFOLIO</text>
+<text x="38" y="116" fill="#152A26" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-3">ho72<tspan fill="#258774">.</tspan></text>
+<text x="40" y="154" fill="#526D66" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing=".6">AI · Software · Systems</text>
+<g stroke="#C1D6CE" stroke-width="2" fill="none">
+<path d="M636 104H695M785 104H842"/>
+<path d="m683 99 6 5-6 5m147-10 6 5-6 5" stroke="#258774"/>
+<rect x="574" y="64" width="62" height="80" rx="12" fill="#FFFFFF"/>
+<rect x="695" y="47" width="90" height="114" rx="12" fill="#FFFFFF"/>
+<rect x="842" y="64" width="62" height="80" rx="12" fill="#FFFFFF"/>
+</g>
+<g fill="#258774">
+<circle cx="594" cy="87" r="3"/><circle cx="616" cy="87" r="3"/>
+<circle cx="594" cy="111" r="3"/><circle cx="616" cy="111" r="3"/>
+<rect x="858" y="85" width="30" height="4" rx="2"/>
+<rect x="858" y="101" width="30" height="4" rx="2"/>
+<rect x="858" y="117" width="20" height="4" rx="2"/>
+</g>
+<path d="m594 87 22 24m0-24-22 24" stroke="#258774" stroke-width="1.5"/>
+<path d="M712 68H768M712 85H754M712 98H745M712 111H762" stroke="#C1D6CE" stroke-width="3" stroke-linecap="round"/>
+<rect x="712" y="130" width="56" height="12" rx="4" fill="#258774" opacity=".3"/>
+</svg>
